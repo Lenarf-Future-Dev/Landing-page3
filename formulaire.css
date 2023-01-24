@@ -141,9 +141,11 @@ label{
 }
 .input-textarea{
     padding-left: 2%;
-    padding-top: 5px;
+    padding-top: 10px;
     font-size: 16px;
     margin-top: -10px;
+      box-sizing: border-box;
+    width: 100%;
 }
 .clue{
     font-size: 15px;
